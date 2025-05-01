@@ -1,0 +1,326 @@
+.all {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    gap: 30px;
+}
+
+
+.a {
+    border: 1px solid blueviolet;
+    border-radius: 10px;
+    width: 300px;
+    height: 350px;
+    background-color: blueviolet;
+    display: flex;
+    gap: 20px;
+}
+
+
+
+.a div {
+    border: 1px solid orange;
+    border-radius: 10px;
+    background-color: orange;
+    width: 60px;
+    height: 60px;
+    margin: 5px;
+}
+
+
+
+
+.b {
+    border: 1px solid blueviolet;
+    border-radius: 10px;
+    width: 300px;
+    height: 350px;
+    background-color: blueviolet;
+}
+
+
+
+.b div {
+    border: 1px solid orange;
+    border-radius: 10px;
+    background-color: orange;
+    width: 60px;
+    height: 60px;
+    margin: 5px;
+}
+
+
+
+
+.c {
+    border: 1px solid blueviolet;
+    border-radius: 10px;
+    width: 300px;
+    height: 350px;
+    background-color: blueviolet;
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+
+
+
+.c div {
+    border: 1px solid orange;
+    border-radius: 10px;
+    background-color: orange;
+    width: 50px;
+    height: 50px;
+    margin: 5px;
+}
+
+
+.c .sa {
+   margin-bottom: 350px;
+} 
+
+
+
+.d {
+    border: 1px solid blueviolet;
+    border-radius: 10px;
+    width: 300px;
+    height: 350px;
+    background-color: blueviolet;
+    display: flex;
+    gap: 20px;
+    justify-content: space-between;
+}
+
+
+
+.d div{
+    border: 1px solid orange;
+    border-radius: 10px;
+    background-color: orange;
+    width: 60px;
+    height: 60px;
+    margin: 5px;
+}
+
+
+
+.e {
+    
+        border: 1px solid blueviolet;
+        border-radius: 10px;
+        width: 300px;
+        height: 350px;
+        background-color: blueviolet;
+        display: flex;
+        gap: 20px;
+    
+}
+
+
+
+body {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+
+
+
+
+.e div {
+    border: 1px solid orange;
+    border-radius: 10px;
+    background-color: orange;
+    width: 60px;
+    height: 60px;
+    margin: 5px;
+}
+
+
+
+
+.f {
+    border: 1px solid blueviolet;
+    border-radius: 10px;
+    width: 300px;
+    height: 350px;
+    background-color: blueviolet;
+    display: flex;
+    gap: 20px;
+    justify-content: end;
+}
+
+
+
+.f div {
+    border: 1px solid orange;
+    border-radius: 10px;
+    background-color: orange;
+    width: 60px;
+    height: 60px;
+    margin: 5px;
+}
+
+
+
+
+.j {
+    border: 1px solid blueviolet;
+    border-radius: 10px;
+    width: 300px;
+    height: 350px;
+    background-color: blueviolet;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+
+
+
+.j div {
+    border: 1px solid orange;
+    border-radius: 10px;
+    background-color: orange;
+    width: 60px;
+    height: 60px;
+    margin: 5px;
+}
+
+
+
+
+.g {
+    border: 1px solid blueviolet;
+    border-radius: 10px;
+    width: 300px;
+    height: 350px;
+    background-color: blueviolet;
+    display: flex;
+    gap: 20px;
+    justify-content: space-between;
+}
+
+
+
+.g div {
+    border: 1px solid orange;
+    border-radius: 10px;
+    background-color: orange;
+    width: 60px;
+    height: 60px;
+    margin: 5px;
+}
+
+
+
+
+.q {
+    border: 1px solid blueviolet;
+    border-radius: 10px;
+    width: 300px;
+    height: 350px;
+    background-color: blueviolet;
+    display: flex;
+    gap: 20px;
+    justify-content: start;
+}
+
+
+
+
+
+.q div {
+    border: 1px solid orange;
+    border-radius: 10px;
+    background-color: orange;
+    width: 60px;
+    height: 60px;
+    margin: 5px;
+}
+
+
+
+
+
+.n {
+    border: 1px solid blueviolet;
+    border-radius: 10px;
+    width: 300px;
+    height: 350px;
+    background-color: blueviolet;
+    display: flex;
+    gap: 20px;
+    justify-content: start;
+    align-items: end;
+}
+
+
+
+
+
+
+
+.n div {
+    border: 1px solid orange;
+    border-radius: 10px;
+    background-color: orange;
+    width: 60px;
+    height: 60px;
+    margin: 5px;
+}
+
+
+
+.m {
+    border: 1px solid blueviolet;
+    border-radius: 10px;
+    width: 300px;
+    height: 350px;
+    background-color: blueviolet;
+    display: flex;
+    gap: 20px;
+    justify-content: start;
+    align-items: center;
+}
+
+
+
+
+.m div {
+    border: 1px solid orange;
+    border-radius: 10px;
+    background-color: orange;
+    width: 60px;
+    height: 60px;
+    margin: 5px;
+}
+
+
+
+
+
+.v {
+    border: 1px solid blueviolet;
+    border-radius: 10px;
+    width: 300px;
+    height: 350px;
+    background-color: blueviolet;
+    display: flex;
+    gap: 20px;
+    justify-content: space-around;
+}
+
+
+
+
+
+.v div {
+    border: 1px solid orange;
+    border-radius: 10px;
+    background-color: orange;
+    width: 60px;
+    height: 60px;
+    margin: 5px;
+}
